@@ -3,7 +3,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import StarsCanvas from "@/Components/main/StarBackground";
 import Navbar from "@/components/main/Navbar";
-
+import Skills from "@/components/main/Skills";
 
 const inter = Inter({ subsets: ["latin"] });
 
